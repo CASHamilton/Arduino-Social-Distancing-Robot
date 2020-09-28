@@ -27,6 +27,8 @@ Trigger - 5
 
 Echo - 6
 
+VCC - 5V
+
 Piezo - 10 (PWM)
 
 You can open the .ino file in the editor then verify and upload the code to your Arduino. 
