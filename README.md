@@ -35,3 +35,5 @@ You can open the .ino file in the editor then verify and upload the code to your
 If you have hooked everything up correctly you should have a fully functioning Social Distancing Robot.
 
 #### Stay safe out there!
+
+#### If you find any bugs please let me know through the Issues tab.
