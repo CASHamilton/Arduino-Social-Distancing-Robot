@@ -1,6 +1,6 @@
 # Arduino-Social-Distancing-Robot
 ## Building Instructions
-You will need the following parts
+You will need the following parts:
 
 1 Arduino (Uno or Mega works best for this project)
 
